@@ -1,10 +1,10 @@
-**HELLO**
+### **HELLO** ###
 
 - I am @Andre053
-- I'm a junior software engineer looking to develop and expand my skills
 - My favourite languages are C++ and Python
 - I enjoy scripting with Bash and using Linux whenever possible
-- I would love to collaborate on any projects that fit my interests
+- My current interests include: Backend Engineering, DevOps, and Embedded Systems 
+- I would love to collaborate on any projects that match my interests
 - Reach me at: andre.debiasi053@gmail.com
 <!--
 **Andre053/Andre053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
