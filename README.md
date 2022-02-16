@@ -5,7 +5,7 @@
 - I enjoy scripting with Bash and using Linux whenever possible
 - My current interests include: Backend Engineering, DevOps, and Embedded Systems 
 - I would love to collaborate on any projects that match my interests
-- Reach me at: andre.debiasi053@gmail.com
+- Reach me on Discord at: _andre#1053
 <!--
 **Andre053/Andre053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
