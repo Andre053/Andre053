@@ -1,6 +1,6 @@
 ### **WELCOME** ###
 
-- Hi, I am @Andre053
+- Hi, I'm @Andre053
 - My favourite languages are C++ and Python
 - I enjoy Bash scripting and using Linux whenever possible
 - My current interests include: Backend Engineering, DevOps, and Embedded Systems 
