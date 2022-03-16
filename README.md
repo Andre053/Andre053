@@ -4,7 +4,7 @@
 - My favourite languages are C++ and Python
 - I enjoy Bash scripting and using Linux whenever possible
 - My current interests include: Backend Engineering, Cybersecurity, and Embedded Systems 
-- I would love to collaborate on any projects that match my interests
+- Open to collaborating on any projects that match my interests
 - Reach me on Discord at: _andre#1053
 <!--
 **Andre053/Andre053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
