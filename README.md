@@ -3,7 +3,7 @@
 - Hi, I'm @Andre053
 - My favourite languages are C++ and Python
 - I enjoy Bash scripting and using Linux whenever possible
-- My current interests include: Backend Engineering, Cybersecurity, and Embedded Systems 
+- My current interests include: Backend engineering, cybersecurity, and embedded systems 
 - Open to collaborating on any projects that match my interests
 - Reach me on Discord at: _andre#1053
 <!--
