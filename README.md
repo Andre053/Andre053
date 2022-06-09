@@ -3,7 +3,7 @@
 - Hi, I'm @Andre053
 - My favourite languages are C and Python
 - I enjoy Bash scripting and using Linux whenever possible
-- My current interests include: software development, computer networking, and cybersecurity
+- My major interests include: software engineering, networking, and cybersecurity
 - Open to collaborating on any projects that match my interests
 - Reach me on Discord at: _andre#1053
 <!--
