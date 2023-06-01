@@ -3,9 +3,8 @@
 - Hi, I'm @Andre053
 - My favourite languages are Go, C++, and Python
 - I use Linux whenever possible, namely Arch and Ubuntu
-- My major interests include: software engineering, networking, and cybersecurity
+- My major interests include software engineering, computer networking, and cyber security
 - Open to collaborating on any projects that match my interests
-- Reach me on Discord at: _andre#1053
 <!--
 **Andre053/Andre053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
